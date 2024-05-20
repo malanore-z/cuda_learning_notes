@@ -1,0 +1,7 @@
+[submodule "third-party/abseil-cpp"]
+	path = third-party/abseil-cpp
+	url = https://github.com/abseil/abseil-cpp.git
+	branch = lts_2024_01_16
+[submodule "third-party/benchmark"]
+	path = third-party/benchmark
+	url = https://github.com/google/benchmark.git
